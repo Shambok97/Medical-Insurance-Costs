@@ -13,7 +13,7 @@ The dataset for this project was obtained from kaggle (http://kaggle.com/dataset
 
 ## Data Cleaning and Preprocessing
 
-The dataset was first imported into Python and using Pandas, the datafram was created. No missing value was present in the dataset which was a good sign. However, the categorical variable "Region" were not in the correct format which is why it was converted into dummy variables using the get_dummies() function. Additionally, "gender" and "smoker" were encoded into labels 1 and 0. The dataset was then split into the training and test set using the train_test_split() function. 
+The dataset was first imported into Python and using Pandas, the datafram was created. No missing value was present in the dataset which was a good sign. However, the categorical variable "Region" were not in the correct format which is why it was converted into dummy variables using the get_dummies() function. Additionally, "gender" and "smoker" were encoded into labels 1 and 0. Numpy was used to reshape the data into 2D arrays for plotting. The dataset was then split into the training and test set using the train_test_split() function. 
 
 ## Exploratory Data Analysis
 
