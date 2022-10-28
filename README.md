@@ -17,8 +17,8 @@ The dataset was first imported into Python and using Pandas, the datafram was cr
 
 ## Exploratory Data Analysis
 
-The dataset was first explored using the describe() function to get a better understanding of the data. The dataset was then visualized using the seaborn library to get a better understanding of the data. 
+The dataset was first explored using the describe() function to get a better understanding of the data. The dataset was then visualized using the seaborn library.
 
-Furthermore, using linear regression from scikit-learn, the relationship between the variables was explored. 
+Furthermore, using linear regression from scikit-learn, the relationship between the variables was explored. A R^2 value of 0.75 was obtained suggesting that the model was a good fit.
 
 
