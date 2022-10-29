@@ -21,4 +21,8 @@ The dataset was first explored using the describe() function to get a better und
 
 Furthermore, using linear regression from scikit-learn, the relationship between the variables was explored. A R^2 value of 0.75 was obtained suggesting that the model was a good fit.
 
+## Conclusions and Future Directions
+
+
+
 
